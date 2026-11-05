@@ -36,7 +36,6 @@ The final model successfully identified the most critical factors influencing ca
 * **Mina**
 * **Fady**
 * **Kerolous**
-*(Note: Add the rest of the team members here if needed)*
 
 ## 🙏 Acknowledgments
 Special thanks to **Orange Digital Center** for the intensive training, resources, and guidance provided throughout this project.
