@@ -32,9 +32,10 @@ The model is trained on a dataset reflecting the Egyptian automotive market. Key
 The final model successfully identified the most critical factors influencing car prices in Egypt, offering highly accurate price estimations that can assist both buyers and sellers in making informed decisions.
 
 ## 👨‍💻 Contributors
-* **Mohamed Salah Al Dien** - [LinkedIn](https://www.linkedin.com/in/mohamed-salah-aldein-556441262)
+* **Mohamed Salah Al Dien** - [LinkedIn](www.linkedin.com/in/mohamed-salah-al-dien-556441262)
 * **Mina**
 * **Fady**
+* **Kerolous**
 *(Note: Add the rest of the team members here if needed)*
 
 ## 🙏 Acknowledgments
